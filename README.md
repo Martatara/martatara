@@ -30,15 +30,13 @@ Here are some ideas to get you started:
 
 ## 🐾 About Me
 
-Welcome to my GitHub! I'm a passionate and results-driven Product Manager with a knack for turning ideas into impactful products. I believe in the power of collaboration, innovation, and user-centric design to create products that not only meet but exceed expectations.
+Welcome to my GitHub! I'm on a learning journey to become a passionate and results-driven Product Manager. I'm eager to transform ideas into impactful products, fueled by my belief in the power of collaboration, innovation, and user-centric design.
 
-- I love navigating the intersection of business, technology, and user experience to formulate effective product strategies.
+☆ I'm fascinated by the intersection of business, technology, and user experience, and I'm working on developing effective product strategies. My approach revolves around grasping user needs, empathizing with their experiences, and crafting solutions that can genuinely enhance their lives.
 
-- My approach revolves around understanding user needs, empathizing with their experiences, and crafting solutions that enhance their lives.
+☆ I'm learning to leverage data to make informed decisions, measure success, and iterate on products for continuous improvement. Whether collaborating with cross-functional teams or engaging with stakeholders, I'm striving to enhance my skills in translating complex ideas into clear, actionable plans.
 
-- I leverage data to inform decisions, measure success, and iterate on products to drive continuous improvement.
-
-- Whether it's with cross-functional teams or stakeholders, I excel in translating complex ideas into clear, actionable plans.
+Excited to share and learn with the GitHub community as I progress on this exciting journey into the world of Product Management! 🚀
 
 ## 👩🏻‍💻 Skills:
 
