@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 ## 🐾 About Me
 
-Welcome to my GitHub! I'm on a learning journey to become a passionate and results-driven Analytics Professional. I'm eager to leverage data to drive insights and make informed decisions, fueled by my belief in the power of collaboration, innovation, and user-centric design.
+Welcome to my GitHub! I'm embarking on a journey to excel as a dedicated and effective Support Professional. My passion lies in providing top-notch technical assistance and ensuring seamless user experiences.
 
-☆ I'm fascinated by the intersection of business, technology, and data analysis, and I'm working on developing effective analytic strategies. My approach revolves around understanding data needs, empathizing with its context, and crafting solutions that can generate actionable insights.
+☆ I'm deeply committed to mastering the intricacies of technical support, aiming to offer prompt solutions and resolve issues efficiently. My approach centers on empathizing with user challenges, identifying root causes, and delivering effective resolutions that enhance overall satisfaction.
 
-☆ I'm learning to utilize various data analysis techniques to extract valuable insights, measure success, and iterate on solutions for continuous improvement. Whether collaborating with cross-functional teams or engaging with stakeholders, I'm striving to enhance my skills in translating complex data into clear, actionable plans.
+☆ I'm actively learning and refining my skills in troubleshooting various technical issues, collaborating closely with teams to address complex problems, and continuously improving support processes. Whether it's resolving tickets, providing guidance to users, or optimizing support workflows, I'm dedicated to delivering exceptional support experiences.
 
-Excited to share and learn with the GitHub community as I progress on this exciting journey into the world of Analytics!
+I look forward to engaging with the GitHub community, sharing insights, and learning from fellow support professionals as I progress in my journey within the Support HQ environment!
 
 ## 👩🏻‍💻 Skills:
 
